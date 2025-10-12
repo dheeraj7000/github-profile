@@ -4,7 +4,6 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on vision-language navigation agent
 - 🌱 I’m currently learning LLM Engineering
 - 📫 How to reach me: [13kumardheeraj@gmail.com](13kumardheeraj@gmail.com)
 
